@@ -1,4 +1,4 @@
-- 👋 Hi, and welcome to @Coding-Lords
+- <h3>👋 Hi, and welcome to Coding-Lords</h3>
 - 👀 Here you'll find amazing and damn easy html, css components as well as projects
 - 🌱 We are currently working on HTML5, CSS3, Bootstrap but further work on other web technologies
 - 📫 How to reach me ...
